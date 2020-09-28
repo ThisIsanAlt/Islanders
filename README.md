@@ -7,3 +7,7 @@ Lore:
 Timmy loved his overalls. Timmy loved them so much that he spent a lot of money on them, and it all took a turn for the worst when Timmy's family started getting angry. They would take his money to make him spend less on overalls, but it just made him spend less on food. So to teach him a lesson, they left him out at sea with just him and his overalls. Will Timmy be able to escape the island, and go back home to his overalls? Or will he starve to death on this island? Let's find out.
 
 *this game was created as an entry for pyweek 30. However, the dev team will still be supporting it with updates in the future. [buy us a coffee!](https://www.buymeacoffee.com/islanders)*
+
+Note: This repo is one version behind the paid one. Get our latest version [here!](https://thisisanalt0117.itch.io/islanders)
+
+[Join the Discord!](https://discord.gg/CwYFQh)
