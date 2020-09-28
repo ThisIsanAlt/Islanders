@@ -1,0 +1,11 @@
+How to run:
+
+1 - Ensure that python is installed. This can be done by typing "python" in your terminal of choice. 
+If you do not see the IDLE shell, please verify that your python installation is correct.
+
+2 - Ensure that all dependencies are installed. This can be done by typing "pip install requirements.txt" in your terminal of choice. 
+Ensure that your terminal is in the correct directory. If any errors appear, uninstall pygame and try again.
+
+3 - Run "python -m main.py"
+
+4 - Have fun!
