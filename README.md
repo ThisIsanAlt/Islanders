@@ -1,5 +1,9 @@
 # Islanders
 
+
+## This project is completed and has been archived. Thanks for supporting us on itch and on our discord! Certain links may be defunct.
+
+
 Islanders is a randomized puzzle based speedrun game, where you must collect 4 randomly generated trees, craft them into a boat, and sail off the dock. Caves can be used to travel faster, and there is a timer that records how long you took. Compete against friends, or against yourself, to try and be the fastest at beating this game!
 
 Lore:
